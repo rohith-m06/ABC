@@ -5,5 +5,6 @@ int main()
 	printf("sum=%d",a+b);
 	printf("sub=%d",a-b);
 	printf("mul=%d",a*b);
+	printf("div=%d",a/b);
 	return 0;
 }
