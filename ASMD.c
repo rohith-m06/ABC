@@ -7,5 +7,6 @@ int main()
 	printf("mul=%d",a*b);
 	printf("div=%d",a/b);
 	printf("All the Arithematic operations are done");
-	return 0;
+	printf("arithematic operations are not done ")
+        return 0;
 }
